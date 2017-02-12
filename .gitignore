@@ -240,3 +240,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/igoCV/igoCV/opencv_world320d.dll
